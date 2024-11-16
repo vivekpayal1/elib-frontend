@@ -1,4 +1,4 @@
-import DownloadButton from "@/components/DownloadButton";
+import DownloadButton from "@/app/book/components/DownloadButton";
 import { Book } from "@/types";
 import Image from "next/image";
 
